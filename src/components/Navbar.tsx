@@ -43,6 +43,11 @@ export default function Navbar(){
                 <a href="#UI/UX">
                 UI/UX design
             </a></P>
+            <P>
+                <img src="nav/extension.png" alt="" className="w-9 h-6 pr-3" />
+                <a href="#extensions">
+                extensions
+            </a></P>
             </div>
         </div>
     )
