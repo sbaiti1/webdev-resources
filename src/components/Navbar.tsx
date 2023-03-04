@@ -38,6 +38,11 @@ export default function Navbar(){
                 <a href="#tailwind">
                 tailwindCss
             </a></P>
+            <P>
+                <img src="nav/web-design.png" alt="" className="w-9 h-6 pr-3" />
+                <a href="#UI/UX">
+                UI/UX design
+            </a></P>
             </div>
         </div>
     )
