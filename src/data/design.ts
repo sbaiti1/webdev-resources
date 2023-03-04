@@ -33,7 +33,7 @@ export default [
                         },
                         {
                             "logo":"design/html.jpg" ,
-                            "name":"Htmlto figma" ,
+                            "name":"Html to figma" ,
                             "desc":"extension to capture your current page and import it as editable Figma layers " ,
                             "url":"https://chrome.google.com/webstore/detail/html-to-figma-by-builderi/efjcmgblfpkhbjpkpopkgeomfkokpaim",
                             },
