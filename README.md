@@ -2,7 +2,12 @@
 
 ### Demo: [webdev-resources-blush.vercel.app](https://webdev-resources-blush.vercel.app/)
 
-### This is an open source public project, you can use it to make web design easier by finding all the websites you need in one place, or you can fork it and add more resources. 
+### Forked from @soumiya59 , go check out her magnificent projects. 
 
-![screenshot](/public/screenshot.png)
+more resources will be added , stay tuned ! 
+
+
+
+![Screenshot from 2023-03-04 20-18-47](https://user-images.githubusercontent.com/91995474/222924890-36765753-82dd-4fe3-a3ba-a014312fe410.png)
+
 
